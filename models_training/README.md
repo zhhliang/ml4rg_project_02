@@ -1,11 +1,8 @@
 # ml4rg_project_02
 
-Totally 18 different architectures, including baseline DeepSTARR and one best architecture.
+You can find all the jupyter notebooks, checkpoints and saved train_val_curves for all the trainings in the google drive: 
+https://drive.google.com/drive/u/0/folders/1MKXhbnPxQldePJRj_XJCCDfs1xDS96te
 
-You can find results of cross validation for the baseline DeepSTARR, model_3 and the best architecture.
-
-Based on the cross validation results, the best architecture is chosen for training 4 models for 4 different cell types, you can also find the performance for test set compared with the baseline.
-
-Because the computaion of SHAP values requires a different code style (https://github.com/shap/shap/issues/2511), I rewrote the best architecture (same architecture, different code style) and trained again 4 models for 4 different cell types.
-
-You can find jupyter notebooks, best checkpoints and train_val_curves for all the trainings.
+Use process_data.ipynb to generate training data from the data table
+To load the checkpoint, you need to put the checkpoint into folder checkpoints.
+To load the train_val_curve, you need to put the train_val_curve.pkl into folder outputs.

@@ -1,6 +1,6 @@
 # ml4rg_project_02
 
-You can find all the jupyter notebooks, checkpoints and saved train_val_curves for all the trainings in the google drive: 
+You can find all the jupyter notebooks, checkpoints, saved train_val_curves, model performaces for all the trainings in the google drive: 
 https://drive.google.com/drive/u/0/folders/1MKXhbnPxQldePJRj_XJCCDfs1xDS96te
 
 Use process_data.ipynb to generate training data from the data table.

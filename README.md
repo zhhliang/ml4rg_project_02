@@ -4,6 +4,9 @@ In multicellular organisms, cells exhibit diverse appearances and functions desp
 
 The "model_interpretation" folder contains the scripts for preparing the data set, running modisco-lite and visualizing the detected motifs and transciption factors.
 
-The "models_training" folder contains the jupyter notebooks for processing training data, training models using baseline, DeepSTARR-RD, dilated DeepSTARR architectures.
+The "models_training" folder contains the jupyter notebooks for processing training data, training models using different architectures.
 
 The "contribution_scores" folder contains the jupyter notebooks for computation and visualization of contribution scores.
+
+Complete progress can be found in google drive:
+https://drive.google.com/drive/u/0/folders/1MKXhbnPxQldePJRj_XJCCDfs1xDS96te
